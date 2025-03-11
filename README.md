@@ -1,2 +1,5 @@
-# ros2-raspberry-pi-vision-robot
+# intelligent vision roboot
 this repository based on raspberry pi
+### node
+- publisher
+- subscriber
